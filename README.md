@@ -5,7 +5,6 @@ Dashboard interaktif analisis penjualan e-commerce — live demo, instruksi menj
 ## Demo
 - Live app: https://e-commerce-dashboard-4ypsnvhy59ch8jncabkhhw.streamlit.app
 
-	> Jika URL berbeda, ganti link di atas dengan URL Streamlit Cloud Anda.
 
 ## Ringkasan
 Dashboard ini menampilkan metrik utama penjualan, grafik pesanan harian, dan performa kategori produk menggunakan dataset penjualan bersih.
@@ -50,5 +49,5 @@ Lihat `requirements.txt` untuk daftar paket Python yang dibutuhkan.
 Licensed under MIT. Untuk pertanyaan, hubungi: devinnovva (GitHub profile) atau email.
 
 ---
-_Created for portfolio — feel free to adapt content, add screenshots, and a short case study._
+
  
