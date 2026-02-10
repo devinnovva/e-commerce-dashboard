@@ -49,7 +49,7 @@ Notebooks analisis ditempatkan di folder `notebook/`. Notebook utama: [Proyek_An
 Lihat `requirements.txt` untuk daftar paket Python yang dibutuhkan.
 
 ## Lisensi & Kontak
-Licensed under MIT. Untuk pertanyaan, hubungi: devinnovva (GitHub profile) atau email.
+Licensed under MIT. Untuk pertanyaan, hubungi: devin-novansyah16 (GitHub profile) atau email.
 
 ---
 
